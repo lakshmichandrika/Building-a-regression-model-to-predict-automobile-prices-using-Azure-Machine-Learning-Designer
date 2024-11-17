@@ -78,6 +78,63 @@ remove the columns which you feel are not required
 
 ![image](https://github.com/user-attachments/assets/e1017192-b45f-4576-b3a8-2a6d0d3aa297)
 
+12.In train model-edit column
+
+![image](https://github.com/user-attachments/assets/87049a78-cca0-40c2-b9df-80c8a6bf18b1)
+
+13.Configure &Submit-select existing-submit
+
+![image](https://github.com/user-attachments/assets/5f0d72fb-3ea2-4522-9865-8dcaf2ee0e18)
+
+14.
+
+![image](https://github.com/user-attachments/assets/41d5e71d-754c-4db5-89cb-083316e60b20)
+
+15.since we have tested it with our input dat,now test it with entering manual data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
