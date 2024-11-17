@@ -43,6 +43,8 @@ Process:
 
 ![image](https://github.com/user-attachments/assets/9f3fab92-fbf8-4a81-be6a-42f1a4efb2e5)
 
+remove the columns which you feel are not required
+
 ![image](https://github.com/user-attachments/assets/575372db-897a-4483-a8e5-f383a0a039b3)
 
 6.lly search for clean missing data,Normalize data
