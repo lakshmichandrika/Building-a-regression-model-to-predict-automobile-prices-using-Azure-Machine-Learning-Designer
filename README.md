@@ -57,14 +57,22 @@ Process:
 
 ![image](https://github.com/user-attachments/assets/86999f18-a9e6-4922-be97-c48f56269905)
 
-9.g
+9.For normalizing the data
+
+![image](https://github.com/user-attachments/assets/df11f95c-6bb4-44e2-baa3-4927872bf521)
+
 
 ![image](https://github.com/user-attachments/assets/6f18bfc3-4d72-4c62-b691-5c85d97314d2)
 
+10.click on Configure and submit
 
+![image](https://github.com/user-attachments/assets/d8899854-bae9-47c0-9012-eb8e38fb1e1c)
 
+![image](https://github.com/user-attachments/assets/53d51bb4-52bc-4473-b7cc-d6449cb4ccc0)
 
+11.split the data because some data need to be kept for testing purpose
 
+![image](https://github.com/user-attachments/assets/47ca0a3b-563c-4947-bbb0-571c79084443)
 
 
 
