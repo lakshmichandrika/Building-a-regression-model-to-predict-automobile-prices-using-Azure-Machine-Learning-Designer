@@ -15,6 +15,10 @@ Agenda:
 
 7.Deploy the trained model as a web service using Azure Container Instance
 
+Important links:https://learn.microsoft.com/en-us/azure/machine-learning/how-to-troubleshoot-online-endpoints?view=azureml-api-2&tabs=cli
+https://archive.ics.uci.edu/dataset/10/automobile?darkschemeovr=1
+https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-train-score?view=azureml-api-1
+
 Process:
 
 
