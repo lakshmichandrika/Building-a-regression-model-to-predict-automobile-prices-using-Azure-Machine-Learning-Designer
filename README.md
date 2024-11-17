@@ -25,7 +25,7 @@ https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-designer-autom
 
 Process:
 
-1.Create an Azure Machine Learning workspace and launch studio
+1.Create a Resource group-Create an Azure Machine Learning workspace and launch studio
 
 2.go to Manage-compute-compute clusters-new
 
@@ -90,18 +90,25 @@ remove the columns which you feel are not required
 
 ![image](https://github.com/user-attachments/assets/41d5e71d-754c-4db5-89cb-083316e60b20)
 
-15.since we have tested it with our input dat,now test it with entering manual data
+15.since we have tested it with our input data,now test it with entering manual data
 
+![image](https://github.com/user-attachments/assets/7f03754f-5ed0-468f-97e9-c9712a84687a)
 
+16.Remove price if included
 
+![image](https://github.com/user-attachments/assets/7b2833ce-6e64-43ba-b3b2-d40cb9228423)
 
+17.Remove evaluate model and add python code model
 
+![image](https://github.com/user-attachments/assets/ff440564-360e-43bd-84f0-50bdbdea4463)
 
+![image](https://github.com/user-attachments/assets/8ffd3214-1638-4edf-9dee-9a8556d0eda1)
 
+18.Deploy the model
 
+![image](https://github.com/user-attachments/assets/4bd7070c-0e33-4d7f-8b8f-e1e2e6581507)
 
-
-
+19.Click on End-points and give any input and click on test you can see the results.
 
 
 
